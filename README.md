@@ -1,6 +1,8 @@
 # Mars Kolonisi Yaşam Destek Simülatörü
 
-C dilinde yazılmış, konsol tabanlı bir hayatta kalma simülasyonudur. Oyuncu, Mars'taki bir koloninin yaşam destek sistemini yönetir. Amaç; su, oksijen, enerji ve yedek parça kaynaklarını dengeli kullanarak ve kum fırtınalarından korunarak **15 gün** boyunca hayatta kalmaktır.
+C dilinde yazılmış, konsol tabanlı bir hayatta kalma simülasyonudur. Oyuncu, Mars’taki küçük bir araştırma 
+istasyonunda tek başına kalmış bir mühendisi yönetir ve kurtarma ekibi gelene kadar 15 gün 
+hayatta kalmaya çalışır.
 
 ## İçindekiler
 
